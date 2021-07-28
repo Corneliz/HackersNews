@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    margin-top: 0;
+}
+*, *::before, *::after {
+    box-sizing: content-box !important;
+}
